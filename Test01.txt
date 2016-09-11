@@ -1,7 +1,10 @@
-12345
+﻿12345
 2
 3
 4
 5
 ... also gut, ich bin jetzt mal drin und versuche ein weiteres commit von github zu mir
 asdfjklö
+...
+.. jetz bin ich wieder local und gehe den weg zu github
+...
