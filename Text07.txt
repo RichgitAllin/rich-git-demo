@@ -1,2 +1,8 @@
 nach diesem Commit wird gemerged.
 
+ÄNDERUNG1
+
+
+ÄNDERUNG2
+
+ÄNDERUNG3
