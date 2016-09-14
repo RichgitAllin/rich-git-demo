@@ -6,3 +6,6 @@ nach diesem Commit wird gemerged.
 ÄNDERUNG2
 
 ÄNDERUNG3
+
+ÄNDERUNG4
+
